@@ -1,0 +1,11 @@
+E:\Projects\C#\FaceAPI\FaceAPI\FaceAPI\bin\Debug\FaceAPI.exe.config
+E:\Projects\C#\FaceAPI\FaceAPI\FaceAPI\bin\Debug\FaceAPI.exe
+E:\Projects\C#\FaceAPI\FaceAPI\FaceAPI\bin\Debug\FaceAPI.pdb
+E:\Projects\C#\FaceAPI\FaceAPI\FaceAPI\obj\Debug\FaceAPI.csprojResolveAssemblyReference.cache
+E:\Projects\C#\FaceAPI\FaceAPI\FaceAPI\obj\Debug\FaceAPI.Form1.resources
+E:\Projects\C#\FaceAPI\FaceAPI\FaceAPI\obj\Debug\FaceAPI.Properties.Resources.resources
+E:\Projects\C#\FaceAPI\FaceAPI\FaceAPI\obj\Debug\FaceAPI.csproj.GenerateResource.Cache
+E:\Projects\C#\FaceAPI\FaceAPI\FaceAPI\obj\Debug\FaceAPI.exe
+E:\Projects\C#\FaceAPI\FaceAPI\FaceAPI\obj\Debug\FaceAPI.pdb
+E:\Projects\C#\FaceAPI\FaceAPI\FaceAPI\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\C#\FaceAPI\FaceAPI\FaceAPI\bin\Debug\Newtonsoft.Json.xml
